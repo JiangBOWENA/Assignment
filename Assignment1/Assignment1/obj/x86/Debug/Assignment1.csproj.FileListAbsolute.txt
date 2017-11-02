@@ -1,0 +1,4 @@
+G:\姜博文\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+G:\姜博文\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+G:\姜博文\Assignment1\Assignment1\obj\x86\Debug\Assignment1.exe
+G:\姜博文\Assignment1\Assignment1\obj\x86\Debug\Assignment1.pdb

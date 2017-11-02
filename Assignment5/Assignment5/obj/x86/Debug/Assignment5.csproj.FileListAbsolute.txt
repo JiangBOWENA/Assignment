@@ -1,0 +1,5 @@
+G:\姜博文\Assignment5\Assignment5\bin\Debug\Assignment5.exe
+G:\姜博文\Assignment5\Assignment5\bin\Debug\Assignment5.pdb
+G:\姜博文\Assignment5\Assignment5\obj\x86\Debug\Assignment5.csprojResolveAssemblyReference.cache
+G:\姜博文\Assignment5\Assignment5\obj\x86\Debug\Assignment5.exe
+G:\姜博文\Assignment5\Assignment5\obj\x86\Debug\Assignment5.pdb
