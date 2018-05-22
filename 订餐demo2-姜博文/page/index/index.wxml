@@ -1,0 +1,106 @@
+<!--上-->
+<view class="detailtop">
+  <view class="detailtoppic">
+    <navigator url="../index/shop">
+      <image src="/imgs/index/good.jpg"></image>
+    </navigator>
+  </view>
+  <view class="detailtoptit">济大公社 - i茶咖
+  </view>
+  <view class="indextop">
+    <view class="indextopSpan">
+      满
+    </view>
+    2017年2月10日前店内商品满50立减10元
+  </view>
+</view>
+
+<!--中-->
+<view class="indexbom-tit">本店美食</view>
+<view class="indexbom">
+  <view class="indexbomli">
+    <!-- <navigator url="../good/good?title=coffee">-->
+     <navigator url="../Test/test"> 
+      <image src="/imgs/index/fl_03.jpg"></image>
+    </navigator>
+    <view class="good_name">咖啡系列</view>
+  </view>
+  <view class="indexbomli">
+    <navigator url="../good/good?title=tea">
+      <image src="/imgs/index/fl_06.jpg"></image>
+    </navigator>
+    <view class="good_name">茶饮系列</view>
+  </view>
+  <!-- <view class="indexbomli">
+    <navigator url="../good/good">
+      <image src="/imgs/index/fl_11.jpg"></image>
+    </navigator>
+  </view>
+  <view class="indexbomli">
+    <navigator url="../good/good">
+      <image src="/imgs/index/fl_14.jpg"></image>
+    </navigator>
+  </view>
+  <view class="indexbomli">
+    <navigator url="../good/good">
+      <image src="/imgs/index/fl_11.jpg"></image>
+    </navigator>
+  </view>
+  <view class="indexbomli">
+    <navigator url="../good/good">
+      <image src="/imgs/index/fl_14.jpg"></image>
+    </navigator>
+  </view>
+  <view class="indexbomli">
+    <navigator url="../good/good">
+      <image src="/imgs/index/fl_11.jpg"></image>
+    </navigator>
+  </view>
+  <view class="indexbomli">
+    <navigator url="../good/good">
+      <image src="/imgs/index/fl_14.jpg"></image>
+    </navigator>
+  </view>
+
+  <view class="indexbomli">
+    <navigator url="../good/good">
+      <image src="/imgs/index/fl_11.jpg"></image>
+    </navigator>
+  </view>
+  <view class="indexbomli">
+    <navigator url="../good/good">
+      <image src="/imgs/index/fl_14.jpg"></image>
+    </navigator>
+  </view> -->
+  <view class="clear"></view>
+</view>
+
+<view class="vip-info">
+  <view class="vip-info-title">会员信息</view>
+  <view class="vip-info-detail">欢迎回来，用户昵称，会员等级</view>
+
+</view>
+
+<view class="shop-info">
+  <view class="shop-info-title">店铺详情</view>
+  <swiper class="banner" indicator-dots="true" autoplay="true" interval="3000" duration="500">
+    <swiper-item>
+      <image src="/imgs/shop/shop-detail1.png"></image>
+    </swiper-item>
+    <swiper-item>
+      <image src="/imgs/shop/shop-detail2.png"></image>
+    </swiper-item>
+    <swiper-item>
+      <image src="/imgs/shop/shop-detail1.png"></image>
+    </swiper-item>
+  </swiper>
+  <view class="shop-info-detail">
+    <view class="shop-info-detail-text">
+      <image class="shop-info-detail-image" src="/imgs/shop/time64.png"> </image>营业时间</view>
+    <view class="shop-info-detail-text">
+      <image class="shop-info-detail-image" src="/imgs/shop/location64.png"> </image>店铺地址</view>
+    <view class="shop-info-detail-text">
+      <image class="shop-info-detail-image" src="/imgs/shop/telephone64.png"> </image>联系电话</view>
+  </view>
+
+</view>
